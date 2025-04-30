@@ -19,7 +19,7 @@ VORP Core is a comprehensive Lua-based framework for RedM, designed to enhance s
 
 ## Documentation
 
-- [Acess Documentation](https://vorpcore.github.io/VORP_Documentation/)
+- [Acess Documentation](https://docs.vorp-core.com/introduction)
 - Direct link to the full VORP Core documentation for in-depth details and guides.
 
 ---
